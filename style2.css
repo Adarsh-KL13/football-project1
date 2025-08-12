@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url("https://elements-resized.envatousercontent.com/elements-video-cover-images/files/5e4179ce-224c-41ba-bfe6-c7286724b12a/inline_image_preview.jpg?w=500&cf_fit=cover&q=85&format=auto&s=c6564c77d96b8c39fde0f4af842d94e864b3430c4d77d6de0d0cad5a0bad8a31");
+    font-family: 'Arial', sans-serif;
+    background-position: center;
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+}
+
+.header_text {
+    font-size: 50px;
+    color: #ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 
+    -2px -2px 0 black,
+     1px -1px 0 black,
+    -1px 1px 0 black,
+     1px 1px 0 black;
+}
+
+.header_text span{
+    font-size: 90px;
+    color: #ffffff;
+    font-family: "Jazz LET";
+    text-shadow: 
+    -1px -1px 0 black,
+     1px -1px 0 black,
+    -1px 1px 0 black,
+     1px 1px 0 black;
+}
+
+.gif_container img {
+    width: 100%; 
+    max-width: 500px; 
+    height: auto; 
+}
